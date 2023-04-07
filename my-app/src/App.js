@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+//app.js is for rendering and configuring middle
+
 function App() {
   return (
     <div className="App">
