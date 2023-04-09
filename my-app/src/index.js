@@ -6,7 +6,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-//create a branch before running npm run dev
+//create a branch before running npm run dev!!
 
 //initialize firebase app instance 
 //im having an problem with firebase import being declared but not read because
