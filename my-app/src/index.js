@@ -6,6 +6,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//the index.js file is where most of the imports, dependencies and libraries.
+
 //create a branch before running npm run dev!!
 
 //initialize firebase app instance 
