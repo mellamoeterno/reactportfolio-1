@@ -16,3 +16,6 @@ export default defineConfig({
     }
   }
 })
+
+// Vite configuration file by creating a vite.config.js
+// file in the root of your project directory. Here's an example of what you can put in the file:
