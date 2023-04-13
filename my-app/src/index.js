@@ -13,6 +13,8 @@ import reportWebVitals from './reportWebVitals';
 //initialize firebase app instance 
 //im having an problem with firebase import being declared but not read because
 //i have'nt initialized the app instance of firebase
+//it doesn't show the old error anymore (firebase its read but never declared)
+//only because of the firebase app instance.
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
