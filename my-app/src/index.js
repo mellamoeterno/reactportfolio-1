@@ -16,6 +16,8 @@ import reportWebVitals from './reportWebVitals';
 //it doesn't show the old error anymore (firebase its read but never declared)
 //only because of the firebase app instance.
 
+//create a 3 different styled websites and take screenshots and make edit
+
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
