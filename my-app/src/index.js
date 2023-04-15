@@ -15,6 +15,7 @@ import reportWebVitals from './reportWebVitals';
 //i have'nt initialized the app instance of firebase
 //it doesn't show the old error anymore (firebase its read but never declared)
 //only because of the firebase app instance.
+//aaaaaaaa
 
 //create a 3 different styled websites and take screenshots and make edit
 
