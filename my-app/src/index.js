@@ -6,18 +6,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-//the index.js file is where most of the imports, dependencies and libraries.
-
-//create a branch before running npm run dev!!
-
-//initialize firebase app instance 
-//im having an problem with firebase import being declared but not read because
-//i have'nt initialized the app instance of firebase
-//it doesn't show the old error anymore (firebase its read but never declared)
-//only because of the firebase app instance.
-//aaaaaaaa
-
-//create a 3 different styled websites and take screenshots and make edit
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
