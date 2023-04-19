@@ -4,6 +4,7 @@ import { Navbar, Container } from "react-bootstrap";
 //she copied navbar from site and pasted it
 //
 export const NavBar = () => {
+  const {activeLink, setActiveLink} = useState('home'); //this related to the 'import{useState}from"react";'
     return (
         <Navbar bg="light" expand="lg">
           <Container>
@@ -20,4 +21,3 @@ export const NavBar = () => {
         </Navbar>
       );
     }
-    //stopped at 7:58
